@@ -1,0 +1,11 @@
+{
+  "name": "aura-royale",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AURA Royale - Worldwide Creator Network",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  }
+}

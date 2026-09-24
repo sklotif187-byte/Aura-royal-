@@ -1,0 +1,9 @@
+{
+  "name": "AURA Royale - Worldwide Creator Network",
+  "description": "Next-gen social ecosystem combining Facebook, Instagram, and WhatsApp for worldwide content creators with advanced video editing studio, real-time audio/video calls, voice messaging, viral analytics dashboard, and blockchain monetization.",
+  "requestFramePermissions": [
+    "android.permission.CAMERA",
+    "android.permission.RECORD_AUDIO"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
